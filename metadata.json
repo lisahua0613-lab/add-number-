@@ -1,0 +1,5 @@
+{
+  "name": "数字爆破：求和益智",
+  "description": "一款极具挑战性的数学消除游戏。通过选择数字凑齐目标总和，防止方块堆积触顶。",
+  "requestFramePermissions": []
+}
